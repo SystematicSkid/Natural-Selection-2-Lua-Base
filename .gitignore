@@ -243,3 +243,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Capstone
+/lua/luajit/doc
+/lua/luajit/dynasm
+/polyhook
+/NaturalSelection2Lua/PolyHook.hpp
